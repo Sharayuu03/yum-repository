@@ -1,2 +1,3 @@
-# yum-repository
-source code
+[AppStream]
+name=AppStreamRepo
+baseurl=
