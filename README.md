@@ -1,3 +1,10 @@
 [AppStream]
 name=AppStreamRepo
-baseurl=
+baseurl=http://AppStream
+enabled=1
+gpgcheck=0
+[BaseOS]
+name=BaseOSRepo
+baseurl=http://BaseOS
+enabled=1
+gpgcheck=0
